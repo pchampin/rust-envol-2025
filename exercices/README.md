@@ -10,3 +10,5 @@ Pour cela, ouvrez le fichier `src/exo1.rs` et complétez les fonctions.
 ```
 cargo run exo1
 ```
+
+[ensemble de Mandelbrot]: https://fr.wikipedia.org/wiki/Ensemble_de_Mandelbrot
